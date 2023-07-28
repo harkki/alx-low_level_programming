@@ -7,8 +7,7 @@
  * @len: length of the string
  * @next: points to the next node
  *
- * Description: singly linked list node structure
- * for Holberton project
+ * Description: singly linked list node structure project
  */
 typedef struct list_s
 {
